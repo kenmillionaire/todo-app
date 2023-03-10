@@ -2,5 +2,5 @@ import React from "react";
 import "./Container.scss";
 
 export default function Container() {
-  return <div>Container</div>;
+  return <div className="container">Container</div>;
 }
