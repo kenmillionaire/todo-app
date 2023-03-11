@@ -1,6 +1,6 @@
 import React from "react";
-import HeaderComponent from "./Header.scss";
+import "./Header.scss";
 
 export default function Header() {
-  return <div>Header</div>;
+  return <h1 className="header">Todo Items</h1>;
 }
